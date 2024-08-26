@@ -1,6 +1,6 @@
-public class main{
+public class DesafioHeroi{
     public static void main(String[] args) {
-        int xp = 1000;
+        int xp = 8001;
         String nomeHeroi = "Kleber";
 
         if(xp <= 1000){
