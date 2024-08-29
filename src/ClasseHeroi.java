@@ -21,7 +21,7 @@ class ClasseHeroi{
             System.out.println(heroi.tipo + " o atacou usando espada");
         }else if(heroi.tipo == "Monge"){
             System.out.println(heroi.tipo + " o atacou usando artes marciais");
-        }else if(heroi.tipo == "ninja"){
+        }else if(heroi.tipo == "Ninja"){
             System.out.println(heroi.tipo + " o atacou usando shuriken");
         }
 
@@ -31,7 +31,7 @@ class ClasseHeroi{
             System.out.println(heroi2.tipo + " o atacou usando espada");
         }else if(heroi2.tipo == "Monge"){
             System.out.println(heroi2.tipo + " o atacou usando artes marciais");
-        }else if(heroi2.tipo == "ninja"){
+        }else if(heroi2.tipo == "Ninja"){
             System.out.println(heroi2.tipo + " o atacou usando shuriken");
         }
 
@@ -41,7 +41,7 @@ class ClasseHeroi{
             System.out.println(heroi3.tipo + " o atacou usando espada");
         }else if(heroi3.tipo == "Monge"){
             System.out.println(heroi3.tipo + " o atacou usando artes marciais");
-        }else if(heroi3.tipo == "ninja"){
+        }else if(heroi3.tipo == "Ninja"){
             System.out.println(heroi3.tipo + " o atacou usando shuriken");
         }
 
